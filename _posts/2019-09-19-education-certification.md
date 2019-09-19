@@ -8,7 +8,7 @@ tags:
 link: https://en.wikipedia.org/wiki/Bachelor_of_Technology
 ---
 
-University:- 
+University:- Rajastan Technical university(Kota)
 Period:- Aug-2010 - May-2014
 Location:- Jodhpur
 
