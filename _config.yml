@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Not much."
   links:
-    - label: "https://prakash272.github.io/"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://prakash272.github.io/"
     - label: "Twitter"
