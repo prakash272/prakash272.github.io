@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Prakash Choudhary"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Not much."
+  bio    : "Data Analyst | Programmer"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
